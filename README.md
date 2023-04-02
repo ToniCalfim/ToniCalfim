@@ -16,7 +16,7 @@
 
 ---
 
-**🚀 Languages, Tools and Skills 🚀**
+**🚀 Languages e Tools 🚀**
 <div align= "center" > 
   <code><img title="HTML" height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></code>
   <code><img title="CSS" height="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></code>
