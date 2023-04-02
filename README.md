@@ -10,8 +10,8 @@
 
 ---
 
-**🚀 Languages, Tools and Skills 🚀**
 <span align= "center" >
+  **🚀 Languages, Tools and Skills 🚀**
   <code><img alt="HTML" height="50" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></code>
   <code><img alt="CSS" height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></code>
   <!-- <code><img alt="JavaScript" height="20" src=""></code> -->
