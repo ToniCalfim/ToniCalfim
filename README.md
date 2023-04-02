@@ -10,7 +10,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToniCalfim&theme=cobalt&hide_title=true&langs_count=2&show_icons=true)](https://github.com/ToniCalfim/github-readme-stats) <!-- [![My Stats](https://github-readme-stats.vercel.app/api?username=ToniCalfim&show_icons=true&theme=radical&hide_title=true&show_icons=true)](https://github.com/ToniCalfim/github-readme-stats) --> ![](https://komarev.com/ghpvc/?username=ToniCalfim&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToniCalfim&theme=cobalt&hide_title=true&langs_count=6&show_icons=true)](https://github.com/ToniCalfim/github-readme-stats) <!-- [![My Stats](https://github-readme-stats.vercel.app/api?username=ToniCalfim&show_icons=true&theme=radical&hide_title=true&show_icons=true)](https://github.com/ToniCalfim/github-readme-stats) --> ![](https://komarev.com/ghpvc/?username=ToniCalfim&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS)
 
 <!-- https://eddiehubcommunity.github.io/awesome-github-profiles/profiles -->
 
