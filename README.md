@@ -26,6 +26,6 @@
 
 <br>
 
-<center>
+
 ![](https://komarev.com/ghpvc/?username=ToniCalfim&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS)
-  </center>
+
