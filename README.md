@@ -26,6 +26,4 @@
 
 ----
 
-[![My Stats](https://github-readme-stats.vercel.app/api?username=ToniCalfim&show_icons=true&theme=radical)](https://github.com/ToniCalfim/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToniCalfim&theme=cobalt)](https://github.com/ToniCalfim/github-readme-stats)
+[![My Stats](https://github-readme-stats.vercel.app/api?username=ToniCalfim&show_icons=true&theme=radical)](https://github.com/ToniCalfim/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToniCalfim&theme=cobalt)](https://github.com/ToniCalfim/github-readme-stats)
