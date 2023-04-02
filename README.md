@@ -22,6 +22,6 @@
   <code><img alt="CSS" height="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></code>
   <!-- <code><img alt="JavaScript" height="20" src=""></code> -->
   <code><img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code><br>
-  ![](https://komarev.com/ghpvc/?username=ToniCalfim&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS)
-  
 </div>
+
+![](https://komarev.com/ghpvc/?username=ToniCalfim&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS)
