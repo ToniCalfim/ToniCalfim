@@ -28,6 +28,7 @@
   <code><img title="VSCodium" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"></code>
   <code><img title="CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
   <code><img title="Linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code>
+  <code><img title="Windows" height="50" width="50" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg)"></code>
   <code><img title="VIM Editor" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"></code>  
   <code><img title="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
   <code><img title="MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
