@@ -17,8 +17,8 @@
 ---
 
 **🚀 Current Tech Stack 🚀**
-<div align= "center" > 
-  
+<div align= "center" >
+
   <!-- SVG images from https://devicon.dev/ -->
   
   <code><img title="HTML" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"></code>
@@ -30,6 +30,6 @@
   <code><img title="Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code>
   <code><img title="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
   <code><img title="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
-  <code><img title="Bash" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"</code>
   <code><img title="MS-Dos" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg"></code>
+    
 </div>
