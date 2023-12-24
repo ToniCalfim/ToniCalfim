@@ -35,7 +35,7 @@
   <code><img title="MS-Dos" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg"></code>
   <code><img title="Bash" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"></code>
   <code><img title="SSH" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg"></code>
-  <code><img title="Deluge" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhelp.zoho.com%2Fportal%2Fen%2Fcommunity%2Fzoho-deluge&psig=AOvVaw1dyCmaAHZ5mCwZg9ttYgvg&ust=1703474560649000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDx07aPp4MDFQAAAAAdAAAAABAD)https://www.google.com/url?sa=i&url=https%3A%2F%2Fhelp.zoho.com%2Fportal%2Fen%2Fcommunity%2Fzoho-deluge&psig=AOvVaw1dyCmaAHZ5mCwZg9ttYgvg&ust=1703474560649000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDx07aPp4MDFQAAAAAdAAAAABAD"></code>
+  <code><img title="Deluge" height="50" width="50" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhelp.zoho.com%2Fportal%2Fen%2Fcommunity%2Fzoho-deluge&psig=AOvVaw1dyCmaAHZ5mCwZg9ttYgvg&ust=1703474560649000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDx07aPp4MDFQAAAAAdAAAAABAD"></code>
   
     
   <!-- <code><img title="" height="50" width="50" src=""></code> -->
